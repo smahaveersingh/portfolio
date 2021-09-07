@@ -1,7 +1,7 @@
 ---
 date: '2020-05-06'
 title: 'Simple C++ Monster Game'
-github: 'https://github.com/chandrikadeb7/Random-ProjectIdeaGenerator'
+github: 'https://github.com/smahaveersingh/MonsterGame'
 external: ''
 tech:
   - C++

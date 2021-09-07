@@ -1,15 +1,25 @@
 ---
 date: '2019-05-31'
-title: 'My Online Store'
+title: 'MERN application'
 github: 'https://github.com/chandrikadeb7/MyOnlineStore'
 external: ''
 tech:
-  - PHP
-  - MySQL
-  - HTML
-  - CSS
-company: 'CCL'
+  - React
+  - Mongo DB
+  - Express
+  - REST API
+  - Node.js
+company: ''
 showInProjects: true
 ---
 
-My first PHP project on dynamic eCommerce website development.
+ REACT client and server application built using 
+  - M-> Mongo DB
+  - E-> Express
+  - R-> React
+  - N-> Node.js
+  
+React.js Front End
+Express.js & Node.js Server Tier
+MongoDB Database Tier
+

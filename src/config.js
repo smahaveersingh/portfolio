@@ -1,38 +1,37 @@
 module.exports = {
-  siteTitle: 'Chandrika Deb | Software Engineer',
-  siteDescription:
-    'Chandrika Deb is a Software Engineer at Amdocs, who loves learning new things and helping tech beginners.',
+  siteTitle: 'Mahaveer Singh | Junior Software Developer',
+  siteDescription: '',
   siteKeywords:
-    'Chandrika Deb, Chandrika, Deb, chandrikadeb7, software engineer, face mask, face mask detection, web developer, javascript, girlscript, jamshedpur, amdocs, bit, mesra, deoghar',
-  siteUrl: 'https://chandrikadeb7.github.io/',
+    'Mahaveer Singh, Mahaveer, Singh, msingh, software engineer, web developer, javascript, esndkit, dkitsu, obelisk, ireland',
+  siteUrl: 'https://github.com/smahaveersingh/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Chandrika Deb',
-  location: 'Jamshedpur, India',
-  email: 'chandrikadeb7@gmail.com',
-  github: 'https://github.com/chandrikadeb7',
-  twitterHandle: '@chandrikadeb7',
+  name: 'Mahaveer Singh',
+  location: 'Ireland, Europe',
+  email: 'smadhumahaveer@gmail.com',
+  github: 'https://github.com/smahaveersingh/',
+  twitterHandle: '@smadhukarsingh',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/chandrikadeb7',
+      url: 'https://github.com/smahaveersingh/',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/chandrika-deb/',
+      url: 'https://www.linkedin.com/in/mahaveer-singh-439830169/',
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/chandrikadeb7',
+      url: '',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/___cd.___/',
+      url: 'https://www.instagram.com/smadhukarsingh/',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/chandrikadeb7',
+      url: 'https://twitter.com/smadhukarsingh',
     },
   ],
 

@@ -1,13 +1,15 @@
 ---
-date: '2019-04-30'
-title: 'Student Management System'
-github: 'https://github.com/chandrikadeb7/StudentManagementSystem'
+date: '2020-10-30'
+title: 'Simple Quiz App'
+github: 'https://github.com/smahaveersingh/QuizApp'
 external: ''
 tech:
-  - Java
-  - Sqlite
+  - Kotlin
+  - Android Studio
 company: ''
 showInProjects: true
 ---
 
-Java Swing based project with MySQL database developed using Netbeans IDE
+The Quiz App contains a set of curated questions and its answers and checks for the correctness of the answer given by the user.
+
+It navigates through the questions using dynamic programming.

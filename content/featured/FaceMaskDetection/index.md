@@ -2,8 +2,7 @@
 date: '3'
 title: 'Timesheet Application'
 cover: 't1.png'
-github: 'https://github.com/smahaveersingh/TimesheetTest'
-external: 'https://github.com/smahaveersingh/TimesheetTest'
+external: 'https://obelisk.com/'
 tech:
   - Expo managed workflows
   - React Native

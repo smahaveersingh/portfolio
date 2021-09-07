@@ -1,14 +1,19 @@
 ---
 date: '2020-04-21'
-title: 'Portfolio Version 1'
-github: 'https://github.com/chandrikadeb7/chandrikadeb7.github.io-v1'
-external: 'https://chandrikadeb7.github.io/chandrikadeb7.github.io-v1/'
+title: 'Books Manager, PHP CRUD Application'
+github: 'https://github.com/smahaveersingh/crudlogin'
+
 tech:
-  - HTML
-  - CSS
+  - PHP
+  - MySQl
   - Javascript
   - Bootstrap
 showInProjects: true
 ---
 
-Portfolio Website Version 1 hosted using GitHub Pages. Updates coming soon!
+ - Developed an application to manage books for a Book Store with a registration and login system
+
+ - Description: Dynamic data-driven web application to manage (Create, Read, Update,
+Delete) books.
+
+ - Developed user authentication and authorization using sessions and password hashing.

@@ -1,15 +1,20 @@
 ---
-date: '2019-12-12'
-title: 'Face Recognition in Python'
-github: 'https://github.com/chandrikadeb7/Face-Recognition-in-Python'
+date: '2020-01-30'
+title: 'Basic Cross Platform Mobile App'
+github: 'https://expo.dev/@mahaveersingh/my-places'
 external: ''
 tech:
-  - Python
-  - OpenCV
-  - Pillow
-  - NumPy
+  - Expo Managed Workflow
+  - React Native
+  - REST API
 company: ''
 showInProjects: true
 ---
 
-A real time face recognition system developed in Python using Pillow, OpenCV and NumPy libraries
+ - Developed the app based on a brief to create a simple mobile app to manage places which
+uses Native Device Features (Camera, Maps, SQLite).
+
+ - My App design process includes 5 stages – brainstorm, whiteboarding, prototype, testing
+and implementing.
+
+
